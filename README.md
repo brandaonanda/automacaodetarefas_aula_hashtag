@@ -90,7 +90,7 @@ Como eu faria pra resolver esse problema manualmente?(passo a passo do programa 
     - voltar para o início da tela
     - ou press em "home" ou pyautogui.scroll() positivo pixels para cima, negativo pixels para baixo
 
-#PASSO 5 já no passo 4
+* PASSO 5 já no passo 4
     #repetir passo 4 para cada produto (cada produto é uma linha na base de dados)
     #"for linha in tabela.index:" colocado acima do passo 4
     # nan = NAN = Not a Number = vazio
